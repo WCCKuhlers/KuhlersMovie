@@ -1,0 +1,9 @@
+	h1 { text-align: center;
+		 background-color: #AEAED4; 
+		 color: #ff0000; 
+		 font-family: Georgia, "Times New Roman", serif;
+		 border-bottom: 4px dashed #191970; }
+	.mydiv { text-align: center; }
+	ol { list-style-position: inside; }
+	h2 { border: 4px solid #0000ff; padding: 5px; } }
+	
